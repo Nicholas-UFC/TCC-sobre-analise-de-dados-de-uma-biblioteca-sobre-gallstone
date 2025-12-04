@@ -1,0 +1,20 @@
+catboost_info/
+
+# --- Ambientes Virtuais ---
+venv/
+env/
+.env
+
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints/
+
+# --- IDEs ---
+.vscode/
+.idea/
+
+# --- Dados ---
+ata/
