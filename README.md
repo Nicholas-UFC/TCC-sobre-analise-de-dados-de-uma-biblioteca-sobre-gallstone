@@ -60,6 +60,7 @@ O projeto foi desenvolvido em **Python** utilizando as seguintes bibliotecas:
 ## 📂 Estrutura do Repositório
 
 ```bash
+├── TCC/                # PDF do TCC
 ├── data/                # Dataset utilizado (gallstone.csv)
 ├── notebooks/           # Jupyter Notebooks com os experimentos
 │   └── main.ipynb       # Notebook principal (EDA, Modelagem e SHAP)
