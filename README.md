@@ -12,7 +12,7 @@ Este repositório contém o código-fonte e os experimentos desenvolvidos para o
 
 A doença do cálculo biliar (colelitíase) é um desafio de saúde pública, com o diagnóstico padrão (ultrassonografia) apresentando barreiras de custo. Este projeto propõe uma abordagem de **triagem não invasiva** utilizando Inteligência Artificial.
 
-Utilizando o dataset público **Gallstone-1**, foram testados **17 algoritmos de classificação** para prever a presença da doença com base em 38 atributos (dados clínicos, exames de sangue e bioimpedância).
+Utilizando o dataset público **[Gallstone-1](https://archive.ics.uci.edu/dataset/915/gallstone-1)** (UCI Machine Learning Repository), foram testados **17 algoritmos de classificação** para prever a presença da doença com base em 38 atributos (dados clínicos, exames de sangue e bioimpedância).
 
 ### 🎯 Objetivos
 1. Desenvolver um modelo preditivo de alta acurácia.
